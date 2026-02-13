@@ -303,7 +303,7 @@ body {
         radial-gradient(ellipse 100% 100% at 50% 0%, rgba(245,240,232,.8), transparent),
         url("img/bg.jpg");
         
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
     z-index: 1;
